@@ -23,3 +23,9 @@ Revise a change prompt:
 Can you please revise the openspec change <<change_name>>, try to identify any design flaws, unclear descriptions, lack of clarity in explanation, low quality specs, etc. And explain
   them to me before starting modification of these files.
 ```
+
+Git commit message:
+
+```
+Please give me a medium sized git commit message explaining the changes that were done in this session, use the git message format and conventions.
+```
