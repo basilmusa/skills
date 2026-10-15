@@ -27,7 +27,7 @@ Can you please revise the openspec change <<change_name>>, try to identify any d
 Git commit message:
 
 ```
-Please give me a medium sized git commit message explaining the changes that were done in this session, use the git message format and conventions.
+Please give me a medium sized git commit message explaining the changes that were done in this openspec change, use the git message format and conventions.
 ```
 
 Sample prompt to create all artifacts before apply, notice how we explicitly instruct it to follow rules in AGENTS.md:
