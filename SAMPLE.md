@@ -29,3 +29,12 @@ Git commit message:
 ```
 Please give me a medium sized git commit message explaining the changes that were done in this session, use the git message format and conventions.
 ```
+
+Sample prompt to create all artifacts before apply, notice how we explicitly instruct it to follow rules in AGENTS.md:
+
+```
+/opsx:ff page-content-rpc
+
+Create change 5 as defined in TREE-COMPONENT.md
+Follow its "How to read this document" rules and AGENTS.md
+```
